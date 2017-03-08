@@ -1,0 +1,28 @@
+title: Megha Jadhav
+description: Just Me
+
+url: http://www.meghajadhav.com
+baseurl: ""
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+markdown: kramdown
+highlighter: rouge
+gems: [jekyll-paginate]
+paginate: 5
+
+navigation:
+ - title: Home
+   url: /index.html
+ - title: About
+   url: /about
+ - title: Contact
+   url: /contact
+
+social:
+   github:
+   twitter:
+   facebook:
+   email:
+
+google_analytics: ""
