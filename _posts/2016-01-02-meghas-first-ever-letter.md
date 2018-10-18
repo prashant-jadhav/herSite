@@ -11,7 +11,7 @@ Hi Megha,
 Just to refresh your memories, you had written your heart out on 19th Apr 2014. Check following image of it.
 
 <center>
-  <a href="https://s3.amazonaws.com/herblog-assest/10154026_10152316675990342_7546349915191307380_n.jpg" target="_blank"><img src="{{ 'https://s3.amazonaws.com/herblog-assest/10154026_10152316675990342_7546349915191307380_n.jpg'  }}" alt="Megha's first letter to Mom &amp; Pappa" title="Megha's first letter to Mom &amp; Pappa" width="225" height="300"></a>
+  <a href="https://farm4.staticflickr.com/3928/33513846656_26face023d_c.jpg" target="_blank"><img src="{{ 'https://farm4.staticflickr.com/3928/33513846656_26face023d_c.jpg'  }}" alt="Megha's first letter to Mom &amp; Pappa" title="Megha's first letter to Mom &amp; Pappa" width="225" height="300"></a>
 </center>
 
 **Remember this beta!!!**
