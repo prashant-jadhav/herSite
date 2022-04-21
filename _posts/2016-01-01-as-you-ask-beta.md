@@ -22,6 +22,5 @@ Here is your platform. Go ahead... express yourself...
 
 From,
 
-Your beloved Pappa
 
 ###### Prashant Jadhav
